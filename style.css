@@ -1,0 +1,12 @@
+body {
+    padding: 10px;
+    font: normal 14px Arial;
+  }
+
+strong {
+    color: red;
+}
+
+textarea, input {
+    border-radius: 4px;
+}
